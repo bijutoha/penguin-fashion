@@ -47,3 +47,11 @@ h3{
     background-color: #F1F1F1;
 }
 
+/* Responsive Design */
+
+/* Mobile Device */
+
+@media only screen and (max-width:688px) {
+    
+}
+
