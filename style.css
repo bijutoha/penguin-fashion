@@ -62,13 +62,25 @@ h3{
         width: 80%;
     }
 
+    .help{
+        flex-direction: column-reverse;
+        margin-bottom: 20px;
+    }
+
     .help-insights img{
         width: 40%;
         
     }
+
+    .help-cover-photo{
+        width: 100%;
+        text-align: center;
+    }
+
     .help-insights{
         text-align: center;
     }
+    
     
 }
 
