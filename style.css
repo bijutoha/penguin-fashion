@@ -32,6 +32,7 @@ h3{
 .panguin-btn{
     background-color: #A4BC46;
     border: none;
+    color: white;
 }
 
 .panguin-btn:hover{
@@ -41,4 +42,6 @@ h3{
 .title-first-part{
     color: #FABE4C;
 }
+
+
 
