@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 400;
+}
+
+h1{
+    font-size: 80px;
+    line-height: 96px;
+}
+
+h2{
+    font-size: 48px;
+    line-height: 58px;
+}
+
+h3{
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 700;
+}
+
+.panguin-btn{
+    background-color: #A4BC46;
+    border: none;
+}
+
+.panguin-btn:hover{
+    background-color: #FABE4C;
+}
+
+.title-first-part{
+    color: #FABE4C;
+}
+
