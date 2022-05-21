@@ -25,6 +25,8 @@ h3{
     font-weight: 700;
 }
 
+
+
 .header-section{
     background-color: #FFFBF0;
 }
@@ -52,6 +54,21 @@ h3{
 /* Mobile Device */
 
 @media only screen and (max-width:688px) {
+    .banner{
+        flex-direction: column;
+    }
+
+    img{
+        width: 80%;
+    }
+
+    .help-insights img{
+        width: 40%;
+        
+    }
+    .help-insights{
+        text-align: center;
+    }
     
 }
 
